@@ -1,0 +1,575 @@
+{
+  "notes": {
+    "403": {
+      "vault": {
+        "fsPath": "../dendron-public",
+        "name": "public"
+      },
+      "fname": "403",
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1694196287946,
+      "created": 1694196287946,
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": null,
+      "data": {}
+    },
+    "ogvvyam5g94y58fs336k8ks": {
+      "id": "ogvvyam5g94y58fs336k8ks",
+      "title": "Root",
+      "desc": "",
+      "updated": 1694190702945,
+      "created": 1694190702945,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": "../dendron-public",
+        "name": "public"
+      },
+      "contentHash": "6480cd5be9f48c422c00c8a9ab19183e",
+      "links": [],
+      "anchors": {
+        "welcome-to-dendron": {
+          "type": "header",
+          "text": "Welcome to Dendron",
+          "value": "welcome-to-dendron",
+          "line": 7,
+          "column": 0,
+          "depth": 1
+        },
+        "lookup": {
+          "type": "header",
+          "text": "Lookup",
+          "value": "lookup",
+          "line": 11,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "jflh3pqw84twkvesp4a5a24",
+        "0gkzbgx84xovfcgc2kh4hnn"
+      ],
+      "parent": null,
+      "data": {}
+    },
+    "0gkzbgx84xovfcgc2kh4hnn": {
+      "fname": "p",
+      "stub": true,
+      "vault": {
+        "fsPath": "../dendron-public",
+        "name": "public"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1694196287517,
+      "created": 1694196287517,
+      "id": "0gkzbgx84xovfcgc2kh4hnn",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "u8ihwao8ayj9gm4h46s0urv",
+        "nt4hf3qza0nwtei816p3iqd"
+      ],
+      "parent": "ogvvyam5g94y58fs336k8ks",
+      "data": {},
+      "title": "P"
+    },
+    "nt4hf3qza0nwtei816p3iqd": {
+      "fname": "p.tools",
+      "stub": true,
+      "vault": {
+        "fsPath": "../dendron-public",
+        "name": "public"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1694196287517,
+      "created": 1694196287517,
+      "id": "nt4hf3qza0nwtei816p3iqd",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "0gb9s7s211hempcu85brani",
+        "f4mgqkkmvmku5vetg1jdbb5"
+      ],
+      "parent": "0gkzbgx84xovfcgc2kh4hnn",
+      "data": {},
+      "title": "Tools"
+    },
+    "f4mgqkkmvmku5vetg1jdbb5": {
+      "fname": "p.tools.redis",
+      "stub": true,
+      "vault": {
+        "fsPath": "../dendron-public",
+        "name": "public"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1694196287518,
+      "created": 1694196287518,
+      "id": "f4mgqkkmvmku5vetg1jdbb5",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "5p0ji399ugq4ax2wcr05myt"
+      ],
+      "parent": "nt4hf3qza0nwtei816p3iqd",
+      "data": {},
+      "title": "Redis"
+    },
+    "5p0ji399ugq4ax2wcr05myt": {
+      "fname": "p.tools.redis.res",
+      "stub": true,
+      "vault": {
+        "fsPath": "../dendron-public",
+        "name": "public"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1694196287518,
+      "created": 1694196287518,
+      "id": "5p0ji399ugq4ax2wcr05myt",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "z157g0y4hj5gws9769kryqa"
+      ],
+      "parent": "f4mgqkkmvmku5vetg1jdbb5",
+      "data": {},
+      "title": "Res"
+    },
+    "z157g0y4hj5gws9769kryqa": {
+      "id": "z157g0y4hj5gws9769kryqa",
+      "title": "RU 202 - Redis Streams",
+      "desc": "",
+      "updated": 1694192702744,
+      "created": 1694192673029,
+      "custom": {},
+      "fname": "p.tools.redis.res.ru-202-redis-streams",
+      "type": "note",
+      "vault": {
+        "fsPath": "../dendron-public",
+        "name": "public"
+      },
+      "contentHash": "21d32d5214f2ea40241eae20ade501e9",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "5p0ji399ugq4ax2wcr05myt",
+      "data": {}
+    },
+    "0gb9s7s211hempcu85brani": {
+      "id": "0gb9s7s211hempcu85brani",
+      "title": "Dyff",
+      "desc": "",
+      "updated": 1694192462824,
+      "created": 1691000235855,
+      "custom": {},
+      "fname": "p.tools.dyff",
+      "type": "note",
+      "vault": {
+        "fsPath": "../dendron-public",
+        "name": "public"
+      },
+      "contentHash": "8c043f79b56b208740d096cc450356f6",
+      "links": [
+        {
+          "from": {
+            "fname": "p.journal.2023.w36",
+            "id": "j0jey52vgwan5ih90h6vhqt",
+            "vaultName": "public"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 3,
+              "offset": 35
+            },
+            "end": {
+              "line": 4,
+              "column": 19,
+              "offset": 51
+            },
+            "indent": []
+          },
+          "value": "p.tools.dyff"
+        }
+      ],
+      "anchors": {
+        "cheatsheet": {
+          "type": "header",
+          "text": "Cheatsheet",
+          "value": "cheatsheet",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "nt4hf3qza0nwtei816p3iqd",
+      "data": {}
+    },
+    "u8ihwao8ayj9gm4h46s0urv": {
+      "fname": "p.journal",
+      "stub": true,
+      "vault": {
+        "fsPath": "../dendron-public",
+        "name": "public"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1694196287518,
+      "created": 1694196287518,
+      "id": "u8ihwao8ayj9gm4h46s0urv",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "u01iwxbsu14w4rld5dfwkx1"
+      ],
+      "parent": "0gkzbgx84xovfcgc2kh4hnn",
+      "data": {},
+      "title": "Journal"
+    },
+    "u01iwxbsu14w4rld5dfwkx1": {
+      "fname": "p.journal.2023",
+      "stub": true,
+      "vault": {
+        "fsPath": "../dendron-public",
+        "name": "public"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1694196287518,
+      "created": 1694196287518,
+      "id": "u01iwxbsu14w4rld5dfwkx1",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "j0jey52vgwan5ih90h6vhqt"
+      ],
+      "parent": "u8ihwao8ayj9gm4h46s0urv",
+      "data": {},
+      "title": "2023"
+    },
+    "j0jey52vgwan5ih90h6vhqt": {
+      "id": "j0jey52vgwan5ih90h6vhqt",
+      "title": "W36",
+      "desc": "",
+      "updated": 1694192552503,
+      "created": 1694191277046,
+      "custom": {},
+      "fname": "p.journal.2023.w36",
+      "type": "note",
+      "vault": {
+        "fsPath": "../dendron-public",
+        "name": "public"
+      },
+      "contentHash": "255a2649d66089097a1b7d6a532a65f1",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "p.journal.2023.w36",
+            "id": "j0jey52vgwan5ih90h6vhqt",
+            "vaultName": "public"
+          },
+          "value": "p.tools.dyff",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 3,
+              "offset": 35
+            },
+            "end": {
+              "line": 4,
+              "column": 19,
+              "offset": 51
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "p.tools.dyff"
+          }
+        }
+      ],
+      "anchors": {
+        "tilinterestingcool-things": {
+          "type": "header",
+          "text": "TIL/Interesting/cool things",
+          "value": "tilinterestingcool-things",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "magicconfusing-things": {
+          "type": "header",
+          "text": "Magic/confusing things",
+          "value": "magicconfusing-things",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "u01iwxbsu14w4rld5dfwkx1",
+      "data": {}
+    },
+    "jflh3pqw84twkvesp4a5a24": {
+      "fname": "template",
+      "stub": true,
+      "vault": {
+        "fsPath": "../dendron-public",
+        "name": "public"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1694196287517,
+      "created": 1694196287517,
+      "id": "jflh3pqw84twkvesp4a5a24",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "6yd59jc8em91x272jjwlcrk"
+      ],
+      "parent": "ogvvyam5g94y58fs336k8ks",
+      "data": {},
+      "title": "Template"
+    },
+    "6yd59jc8em91x272jjwlcrk": {
+      "id": "6yd59jc8em91x272jjwlcrk",
+      "title": "Weekly Public",
+      "desc": "",
+      "updated": 1694192180573,
+      "created": 1694191332018,
+      "custom": {},
+      "fname": "template.weekly-pub",
+      "type": "note",
+      "vault": {
+        "fsPath": "../dendron-public",
+        "name": "public"
+      },
+      "contentHash": "733619d8d4831733edfe4ab80a5224ce",
+      "links": [],
+      "anchors": {
+        "tilinterestingcool-things": {
+          "type": "header",
+          "text": "TIL/Interesting/cool things",
+          "value": "tilinterestingcool-things",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "magicconfusing-things": {
+          "type": "header",
+          "text": "Magic/confusing things",
+          "value": "magicconfusing-things",
+          "line": 11,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "jflh3pqw84twkvesp4a5a24",
+      "data": {}
+    }
+  },
+  "domains": [
+    {
+      "id": "ogvvyam5g94y58fs336k8ks",
+      "title": "Root",
+      "desc": "",
+      "updated": 1694190702945,
+      "created": 1694190702945,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": "../dendron-public",
+        "name": "public"
+      },
+      "contentHash": "6480cd5be9f48c422c00c8a9ab19183e",
+      "links": [],
+      "anchors": {
+        "welcome-to-dendron": {
+          "type": "header",
+          "text": "Welcome to Dendron",
+          "value": "welcome-to-dendron",
+          "line": 7,
+          "column": 0,
+          "depth": 1
+        },
+        "lookup": {
+          "type": "header",
+          "text": "Lookup",
+          "value": "lookup",
+          "line": 11,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "jflh3pqw84twkvesp4a5a24",
+        "0gkzbgx84xovfcgc2kh4hnn",
+        "p8hpsn0sx208kn75nn41324",
+        "6Ysxev2Sbn9uINB9cVje0",
+        "p26hzyf6fpgixbg9kzouuso",
+        "9J2MY2Le4ymuJwGz1z91R",
+        "rxbcp23uipjngtc88lxbz5v",
+        "oxvnp1jr8io2ycednb8nsbo",
+        "ng1aw3ylp0yjh10os4rpls6",
+        "w3jong943xvl6unn568hcdp",
+        "nrkrfy8kl4qka173h1wi89o",
+        "76w69gspxh7xlmgc3r00294",
+        "mqruf70c4a17z0i3phomhxe",
+        "b8f3atjuibdq2dmk37mi9wx",
+        "TiNa0iOmLzvEyPTyZQCuy",
+        "kH5wTwv0YvIwh3RmOjVMQ",
+        "hl67yxf519naj8i0ony6rif",
+        "Z5yZH3rnbSbb45yZBfVag",
+        "BGCQYK59P33lgsnevnJt5",
+        "i1VJ2W5jjcDQSrO6WLkZm",
+        "lucwZDfYsazNsx-u-VHKU",
+        "9k9dn6ym41u9tjdcga0axqj",
+        "XsOHbMOO2n08mI8hA6Wpv",
+        "buftswnvk0kfmx1zi8ykpqc",
+        "Z6hmVeuyQFx4VjwEXsa2C",
+        "4uo0HLFkV8uHhdqzS1sx8",
+        "eawxd16zljglmjixsty3bha",
+        "mvedlap1768cqlk49qjcy05",
+        "0h0f04k1xc0ktotrmincsp6",
+        "pdutiz8i2gbw4jpjn89iby1",
+        "j94r4bo4eqsdmu0iawk8tc9",
+        "j8vixqvopogxbxsycsw8480",
+        "ir0daqdis6q0afe3xh4o53p",
+        "x2s48olyopxkkjwstdzrv0f",
+        "k5hphuykcldq5thbp3itrdw",
+        "xu14ejp9itj6t3a1u3adzjx",
+        "qaj3jjyhcb2rtdjre2e75vy",
+        "c0xsh7wl283f9pmo6lrs9re",
+        "i3a5qgpni06d1pr6iagj46m"
+      ],
+      "parent": null,
+      "data": {},
+      "body": "# Welcome to Dendron\n\nThis is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top.\n\n## Lookup\n\nThis section contains useful links to related resources.\n\n- [Getting Started Guide](https://link.dendron.so/6b25)\n- [Discord](https://link.dendron.so/6b23)\n- [Home Page](https://wiki.dendron.so/)\n- [Github](https://link.dendron.so/6b24)\n- [Developer Docs](https://docs.dendron.so/)"
+    }
+  ],
+  "noteIndex": {
+    "id": "ogvvyam5g94y58fs336k8ks",
+    "title": "Root",
+    "desc": "",
+    "updated": 1694190702945,
+    "created": 1694190702945,
+    "custom": {
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "fname": "root",
+    "type": "note",
+    "vault": {
+      "fsPath": "../dendron-public",
+      "name": "public"
+    },
+    "contentHash": "6480cd5be9f48c422c00c8a9ab19183e",
+    "links": [],
+    "anchors": {
+      "welcome-to-dendron": {
+        "type": "header",
+        "text": "Welcome to Dendron",
+        "value": "welcome-to-dendron",
+        "line": 7,
+        "column": 0,
+        "depth": 1
+      },
+      "lookup": {
+        "type": "header",
+        "text": "Lookup",
+        "value": "lookup",
+        "line": 11,
+        "column": 0,
+        "depth": 2
+      }
+    },
+    "children": [
+      "jflh3pqw84twkvesp4a5a24",
+      "0gkzbgx84xovfcgc2kh4hnn",
+      "p8hpsn0sx208kn75nn41324",
+      "6Ysxev2Sbn9uINB9cVje0",
+      "p26hzyf6fpgixbg9kzouuso",
+      "9J2MY2Le4ymuJwGz1z91R",
+      "rxbcp23uipjngtc88lxbz5v",
+      "oxvnp1jr8io2ycednb8nsbo",
+      "ng1aw3ylp0yjh10os4rpls6",
+      "w3jong943xvl6unn568hcdp",
+      "nrkrfy8kl4qka173h1wi89o",
+      "76w69gspxh7xlmgc3r00294",
+      "mqruf70c4a17z0i3phomhxe",
+      "b8f3atjuibdq2dmk37mi9wx",
+      "TiNa0iOmLzvEyPTyZQCuy",
+      "kH5wTwv0YvIwh3RmOjVMQ",
+      "hl67yxf519naj8i0ony6rif",
+      "Z5yZH3rnbSbb45yZBfVag",
+      "BGCQYK59P33lgsnevnJt5",
+      "i1VJ2W5jjcDQSrO6WLkZm",
+      "lucwZDfYsazNsx-u-VHKU",
+      "9k9dn6ym41u9tjdcga0axqj",
+      "XsOHbMOO2n08mI8hA6Wpv",
+      "buftswnvk0kfmx1zi8ykpqc",
+      "Z6hmVeuyQFx4VjwEXsa2C",
+      "4uo0HLFkV8uHhdqzS1sx8",
+      "eawxd16zljglmjixsty3bha",
+      "mvedlap1768cqlk49qjcy05",
+      "0h0f04k1xc0ktotrmincsp6",
+      "pdutiz8i2gbw4jpjn89iby1",
+      "j94r4bo4eqsdmu0iawk8tc9",
+      "j8vixqvopogxbxsycsw8480",
+      "ir0daqdis6q0afe3xh4o53p",
+      "x2s48olyopxkkjwstdzrv0f",
+      "k5hphuykcldq5thbp3itrdw",
+      "xu14ejp9itj6t3a1u3adzjx",
+      "qaj3jjyhcb2rtdjre2e75vy",
+      "c0xsh7wl283f9pmo6lrs9re",
+      "i3a5qgpni06d1pr6iagj46m"
+    ],
+    "parent": null,
+    "data": {},
+    "body": "# Welcome to Dendron\n\nThis is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top.\n\n## Lookup\n\nThis section contains useful links to related resources.\n\n- [Getting Started Guide](https://link.dendron.so/6b25)\n- [Discord](https://link.dendron.so/6b23)\n- [Home Page](https://wiki.dendron.so/)\n- [Github](https://link.dendron.so/6b24)\n- [Developer Docs](https://docs.dendron.so/)"
+  },
+  "vaults": [
+    {
+      "fsPath": "../dendron-public",
+      "name": "public"
+    },
+    {
+      "fsPath": "../../OneDrive - Ericsson/Documents 1/dendron-eric",
+      "name": "eric",
+      "visibility": "private"
+    },
+    {
+      "fsPath": "vault",
+      "visibility": "private"
+    }
+  ]
+}

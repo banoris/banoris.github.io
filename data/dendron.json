@@ -1,0 +1,152 @@
+{
+  "version": 5,
+  "dev": {
+    "enablePreviewV2": true
+  },
+  "commands": {
+    "lookup": {
+      "note": {
+        "selectionMode": "link",
+        "confirmVaultOnCreate": true,
+        "leaveTrace": false,
+        "bubbleUpCreateNew": true,
+        "vaultSelectionModeOnCreate": "smart",
+        "fuzzThreshold": 0.5
+      }
+    },
+    "randomNote": {},
+    "insertNoteLink": {
+      "aliasMode": "none",
+      "enableMultiSelect": false
+    },
+    "insertNoteIndex": {
+      "enableMarker": false
+    },
+    "copyNoteLink": {
+      "aliasMode": "none"
+    },
+    "templateHierarchy": "template"
+  },
+  "workspace": {
+    "dendronVersion": "0.83.0",
+    "vaults": [
+      {
+        "fsPath": "../dendron-public",
+        "name": "public"
+      },
+      {
+        "fsPath": "../../OneDrive - Ericsson/Documents 1/dendron-eric",
+        "name": "eric",
+        "visibility": "private"
+      },
+      {
+        "fsPath": "vault",
+        "visibility": "private"
+      }
+    ],
+    "journal": {
+      "dailyDomain": "daily",
+      "name": "journal",
+      "dateFormat": "y.MM.dd",
+      "addBehavior": "childOfDomain"
+    },
+    "scratch": {
+      "name": "scratch",
+      "dateFormat": "y.MM.dd.HHmmss",
+      "addBehavior": "asOwnDomain"
+    },
+    "graph": {
+      "zoomSpeed": 0.3,
+      "createStub": false
+    },
+    "enableAutoCreateOnDefinition": false,
+    "enableXVaultWikiLink": false,
+    "enableRemoteVaultInit": true,
+    "workspaceVaultSyncMode": "noCommit",
+    "enableAutoFoldFrontmatter": false,
+    "maxPreviewsCached": 10,
+    "maxNoteLength": 204800,
+    "enableUserTags": true,
+    "enableHashTags": true,
+    "task": {
+      "name": "",
+      "dateFormat": "",
+      "addBehavior": "childOfCurrent",
+      "statusSymbols": {
+        "": " ",
+        "wip": "w",
+        "done": "x",
+        "assigned": "a",
+        "moved": "m",
+        "blocked": "b",
+        "delegated": "l",
+        "dropped": "d",
+        "pending": "y"
+      },
+      "prioritySymbols": {
+        "H": "high",
+        "M": "medium",
+        "L": "low"
+      },
+      "todoIntegration": false,
+      "createTaskSelectionType": "selection2link",
+      "taskCompleteStatus": [
+        "done",
+        "x"
+      ]
+    },
+    "enableEditorDecorations": true,
+    "enableFullHierarchyNoteTitle": false,
+    "templateHierarchy": "template",
+    "enablePersistentHistory": false
+  },
+  "preview": {
+    "enableFMTitle": true,
+    "enableNoteTitleForLink": true,
+    "enablePrettyRefs": true,
+    "enableKatex": true,
+    "automaticallyShowPreview": false,
+    "enableFrontmatterTags": true,
+    "enableHashesForFMTags": false
+  },
+  "publishing": {
+    "enableFMTitle": true,
+    "enableNoteTitleForLink": true,
+    "enablePrettyRefs": true,
+    "enableKatex": true,
+    "copyAssets": true,
+    "siteHierarchies": [
+      "root"
+    ],
+    "writeStubs": false,
+    "siteRootDir": "docs",
+    "seo": {
+      "title": "Dendron",
+      "description": "Personal knowledge space"
+    },
+    "github": {
+      "enableEditLink": true,
+      "editLinkText": "Edit this page on GitHub",
+      "editBranch": "main",
+      "editViewMode": "tree"
+    },
+    "enableSiteLastModified": true,
+    "enableFrontmatterTags": true,
+    "enableHashesForFMTags": false,
+    "enableRandomlyColoredTags": true,
+    "enableTaskNotes": true,
+    "enablePrettyLinks": true,
+    "searchMode": "lookup",
+    "siteUrl": "https://banoris.github.io",
+    "duplicateNoteBehavior": {
+      "action": "useVault",
+      "payload": [
+        "vault",
+        "eric",
+        "public"
+      ]
+    },
+    "siteFaviconPath": "favicon.ico",
+    "siteIndex": "root"
+  }
+}

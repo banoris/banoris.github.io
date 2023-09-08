@@ -1,0 +1,125 @@
+{
+  "roots": [
+    {
+      "key": "0gkzbgx84xovfcgc2kh4hnn",
+      "title": "P",
+      "icon": "plusOutlined",
+      "hasTitleNumberOutlined": false,
+      "vaultName": "public",
+      "children": [
+        {
+          "key": "u8ihwao8ayj9gm4h46s0urv",
+          "title": "Journal",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "public",
+          "children": [
+            {
+              "key": "u01iwxbsu14w4rld5dfwkx1",
+              "title": "2023",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "public",
+              "children": [
+                {
+                  "key": "j0jey52vgwan5ih90h6vhqt",
+                  "title": "W36",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "public",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "nt4hf3qza0nwtei816p3iqd",
+          "title": "Tools",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "public",
+          "children": [
+            {
+              "key": "0gb9s7s211hempcu85brani",
+              "title": "Dyff",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "public",
+              "children": []
+            },
+            {
+              "key": "f4mgqkkmvmku5vetg1jdbb5",
+              "title": "Redis",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "public",
+              "children": [
+                {
+                  "key": "5p0ji399ugq4ax2wcr05myt",
+                  "title": "Res",
+                  "icon": "plusOutlined",
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "public",
+                  "children": [
+                    {
+                      "key": "z157g0y4hj5gws9769kryqa",
+                      "title": "RU 202 - Redis Streams",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "public",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "jflh3pqw84twkvesp4a5a24",
+      "title": "Template",
+      "icon": "plusOutlined",
+      "hasTitleNumberOutlined": false,
+      "vaultName": "public",
+      "children": [
+        {
+          "key": "6yd59jc8em91x272jjwlcrk",
+          "title": "Weekly Public",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "public",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "0gkzbgx84xovfcgc2kh4hnn": null,
+    "u8ihwao8ayj9gm4h46s0urv": "0gkzbgx84xovfcgc2kh4hnn",
+    "u01iwxbsu14w4rld5dfwkx1": "u8ihwao8ayj9gm4h46s0urv",
+    "j0jey52vgwan5ih90h6vhqt": "u01iwxbsu14w4rld5dfwkx1",
+    "nt4hf3qza0nwtei816p3iqd": "0gkzbgx84xovfcgc2kh4hnn",
+    "0gb9s7s211hempcu85brani": "nt4hf3qza0nwtei816p3iqd",
+    "f4mgqkkmvmku5vetg1jdbb5": "nt4hf3qza0nwtei816p3iqd",
+    "5p0ji399ugq4ax2wcr05myt": "f4mgqkkmvmku5vetg1jdbb5",
+    "z157g0y4hj5gws9769kryqa": "5p0ji399ugq4ax2wcr05myt",
+    "jflh3pqw84twkvesp4a5a24": null,
+    "6yd59jc8em91x272jjwlcrk": "jflh3pqw84twkvesp4a5a24"
+  },
+  "notesLabelById": {
+    "0gkzbgx84xovfcgc2kh4hnn": "P",
+    "u8ihwao8ayj9gm4h46s0urv": "Journal",
+    "u01iwxbsu14w4rld5dfwkx1": "2023",
+    "j0jey52vgwan5ih90h6vhqt": "W36",
+    "nt4hf3qza0nwtei816p3iqd": "Tools",
+    "0gb9s7s211hempcu85brani": "Dyff",
+    "f4mgqkkmvmku5vetg1jdbb5": "Redis",
+    "5p0ji399ugq4ax2wcr05myt": "Res",
+    "z157g0y4hj5gws9769kryqa": "RU 202 - Redis Streams",
+    "jflh3pqw84twkvesp4a5a24": "Template",
+    "6yd59jc8em91x272jjwlcrk": "Weekly Public"
+  }
+}
